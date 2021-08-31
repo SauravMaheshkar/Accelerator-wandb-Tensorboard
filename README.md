@@ -1,2 +1,1 @@
-# Accelerator-wandb-Tensorboard
-Short Project aimed to showcase how effortlessly one can integrate wandb into pre-existing accelerator based workflows (both GPU and TPU) using TensorBoard
+Link to the Weights and Biases [Project](https://wandb.ai/sauravmaheshkar/Accelerator-TensorBoard/overview) and [Report](https://wandb.ai/sauravmaheshkar/Accelerator-TensorBoard/reports/Tensorboard-with-Accelerators-A-Guide--Vmlldzo5Nzk2MzM)
